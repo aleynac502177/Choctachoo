@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InformationActivity"
+    android:background="#D6DAC8">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:text="Contact Us
++90 212 000 00 00
+info@choctachoo.com
+Official Website: choctachoo.com
+Instagram: instagram.com/ChoctachooCocktails
+We love hearing from our users! Whether you have feedback, questions, or just want to say hello, don't hesitate to reach out to us. You can contact us through our website, social media channels, or directly through the Choctachoo app.
+
+Join Us on the Cocktail Journey:
+Whether you're a seasoned cocktail connoisseur or a curious beginner, Choctachoo invites you to join us on a journey of discovery, exploration, and enjoyment. Download the Choctachoo app today and elevate your cocktail experience to new heights. Cheers to good times and great drinks with Choctachoo!
+
+About Us
+
+Choctachoo is a team of passionate cocktail enthusiasts dedicated to simplifying and enhancing the cocktail experience for everyone. We believe that enjoying a great cocktail should be effortless and enjoyable, whether you're at home, at a bar, or exploring new places. We understand that choosing a cocktail can sometimes be overwhelming, with countless options to consider. That's where Choctachoo comes in. Our intuitive app simplifies the decision-making process by categorizing cocktails based on flavor profiles and providing users with information about drink. With Choctachoo, you can discover new favorites, learn about classic cocktails, and enjoy a world of mixology at your fingertips.
+Our Mission
+At Choctachoo, our mission is to make the world of cocktails more accessible and enjoyable for all. We strive to empower our users with the knowledge and tools they need to confidently explore, create, and savor cocktails, regardless of their level of expertise.
+"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
